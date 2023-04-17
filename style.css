@@ -1,0 +1,86 @@
+/* Mya's CSS*/
+html
+{
+    background-image: linear-gradient(to right , rgb(197, 197, 243), rgb(125, 148, 248), rgb(197, 197, 243), rgb(125, 148, 248));
+}
+body
+{
+    font-family: 'Rajdhani', sans-serif;
+    border-radius: 10px;
+    color:rgb(68, 68, 143);
+    font-size:medium;
+}
+a:link
+{
+    color:rgb(68, 68, 143);
+}
+a:hover
+{
+    color:rgb(197, 197, 243);
+    opacity: 0.5;
+}
+a:active
+{
+    color:rgb(114, 114, 206);
+}
+.maincontainer
+{
+    border: 10px solid #44448F;
+    border-radius: 10px;
+    padding: 5px;
+    min-width: 20em;
+    background-color: rgb(197, 243, 247); 
+    margin: 5em;
+}
+h1 
+{
+    font-size:xx-large;
+    text-align: center;
+}
+h2
+{
+    font-size:x-large;
+    text-align: center;
+}
+h3
+{
+    font-size:large;
+    text-align:center;
+}
+ul
+{
+    list-style-type: square;
+}
+ol
+{
+    list-style-type:upper-latin;
+}
+table
+{
+width: 80%;
+margin: auto;
+border-collapse: collapse;
+}
+.navflexcontainer
+{
+    margin-bottom: 2em;
+}
+.footercontainer
+{
+    color:#44448F;
+    background-color:rgb(197, 243, 247); 
+    margin:5em;
+    text-align: center;
+    padding:2em;
+    border: 10px solid #44448F;
+    border-radius: 10px;
+}
+.alignC
+{
+    text-align: center;
+}
+.breakfast
+{
+    font-style: italic;
+    color: rgb(114, 114, 206);
+}
